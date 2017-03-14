@@ -1,0 +1,1 @@
+This folder will save the video or image uploaded by the user in the various forms during the project.

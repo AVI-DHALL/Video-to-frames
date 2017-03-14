@@ -1,0 +1,1 @@
+The image formed from the merger of set of frames will be stored in this folder.
