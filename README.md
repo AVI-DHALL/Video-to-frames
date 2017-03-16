@@ -9,3 +9,6 @@ Build with the help of following:
 5. GD Graphics Library of PHP
 6. ffmpeg.exe => https://ffmpeg.org (FFmpeg is a free software project that produces libraries and programs for handling multimedia data.)
 7. Bootstrap => https://github.com/BlackrockDigital/startbootstrap-business-casual/tree/gh-pages
+
+For better undertanding of how the folders and files of this project are interconnected, do have a look at the video uploaded by me.  
+https://youtu.be/8nG6J-KZV3Q
